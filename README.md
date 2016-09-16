@@ -1,8 +1,5 @@
-Bash-Py3-password-system
+CyberpunkNet
 ========================
-First of all this is fro sercurity researches and private use.
-This script is free for all users
-Please download or improve it
-Thanks!
+A simple game made by html5, javascript, php, sql, and python3.5
 
 Alpha-256 changmaddubstepremixer@gmail.com
