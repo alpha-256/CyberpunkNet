@@ -1,7 +1,10 @@
-body
+div.speech
   {
+  width: 500px ;
+  left:500px;
+  z-index: auto;
   background: #000;
-  padding-top: 10px;
+  padding-top: 30em;
   }
 p
   {
@@ -12,6 +15,7 @@ p
   overflow: hidden;
   width: 30em;
   animation: type 4s steps(60, end);
+  text-align: left;
   }
 p:nth-child(2)
   {
@@ -21,6 +25,7 @@ p a
   {
   color: lime;
   text-decoration: none;
+  text-align: left;
   }
 span
   {
