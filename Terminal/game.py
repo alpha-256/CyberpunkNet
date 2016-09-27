@@ -6,12 +6,12 @@ from part1 import story1
 from mainscreen import pageone
 
 def setupAll():
-    print("0)   Load Saved File?")
+    print("     0)   Load Saved File?")
     print("")
-    print("1)   Start New Game?")
+    print("     1)   Start New Game?")
     print("")
-    print("99)  Quit Game?")
-    chooseStart = int(input(" Select Option by Number pls...>"))
+    print("     99)  Quit Game?")
+    chooseStart = int(input("       Select Option by Number pls...>"))
     if chooseStart == 0:
         #loadSaved()
         print("Choose load progress")
