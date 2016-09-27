@@ -19,6 +19,7 @@ def setupAll():
     elif chooseStart == 1:
         #newGame()
         print("Creating New Game")
+        functions.progressBar()
         story1.part1()
     elif chooseStart == 99:
         exit()
