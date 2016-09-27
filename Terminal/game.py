@@ -5,6 +5,7 @@ from functionset import functions
 from part1 import story1
 from mainscreen import pageone
 
+#setup function
 def setupAll():
     print("     0)   Load Saved File?")
     print("")
@@ -17,7 +18,8 @@ def setupAll():
         print("Choose load progress")
     elif chooseStart == 1:
         #newGame()
-        print("Load new game function")
+        print("Creating New Game")
+        story1.part1()
     elif chooseStart == 99:
         exit()
     else:
@@ -26,5 +28,4 @@ def setupAll():
 
 #main menu + animation
 pageone.menuAnimLoad()
-
 setupAll()
