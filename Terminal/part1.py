@@ -29,4 +29,5 @@ class story1:
         functions.spacing8()
         typeAnim(a)
         typeAnim(b)
+        print("\n")
         typeAnim(name)
