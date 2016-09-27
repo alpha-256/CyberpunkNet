@@ -4,7 +4,7 @@ import time
 from functionset import functions
 from part1 import story1
 from mainscreen import pageone
-
+s
 #setup function
 def setupAll():
     print("     0)   Load Saved File?")
