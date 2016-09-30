@@ -4,6 +4,8 @@ import time
 from functionset import functions
 from part1 import story1
 from mainscreen import pageone
+from newgame import newGame
+
 #setup function
 def setupAll():
     print("     0)   Load Saved File?")
@@ -19,6 +21,7 @@ def setupAll():
         #newGame()
         print("Creating New Game")
         functions.progressBar()
+        functions.clearTerm
         story1.part1()
     elif chooseStart == 99:
         exit()
