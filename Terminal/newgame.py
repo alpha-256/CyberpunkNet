@@ -12,7 +12,7 @@ class newGame:
         functions.spacing8()
         userName = input("Username? >>>   ")
         repr(dict)
-        f = open( 'tester.txt', 'w' )
-        f.write( 'user1 = ' + repr(userName) + '\n' )
+        f = open( 'userstat.txt', 'w' )
+        f.write( repr(userName) + '\n' )
         f.close()
         functions.clearTerm

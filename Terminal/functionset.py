@@ -30,7 +30,6 @@ class functions:
             functions.clearME()
             Main.trip()
 
-
     def progressBar():
         def printProgress (iteration, total, prefix = '', suffix = '', decimals = 1, barLength = 100):
             formatStr       = "{0:." + str(decimals) + "f}"
