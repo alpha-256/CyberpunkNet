@@ -1,20 +1,20 @@
 import math
 import sys
-import time
+from time import sleep as delay
 from functionset import functions
 
-class pageone:
+class loadingAnim:
     def menuAnimLoad():
         print("            ______      __                                __   _   __     __ ")
-        time.sleep(0.3)
+        delay(0.3)
         print("           / ______  __/ /_  ___  _________  __  ______  / /__/ | / ___  / /_")
-        time.sleep(0.3)
+        delay(0.3)
         print("          / /   / / / / __ \/ _ \/ ___/ __ \/ / / / __ \/ //_/  |/ / _ \/ __/")
-        time.sleep(0.3)
+        delay(0.3)
         print("         / /___/ /_/ / /_/ /  __/ /  / /_/ / /_/ / / / / ,< / /|  /  __/ /_  ")
-        time.sleep(0.3)
+        delay(0.3)
         print("         \____/\__, /_.___/\___/_/  / .___/\__,_/_/ /_/_/|_/_/ |_/\___/\__/  ")
-        time.sleep(0.3)
+        delay(0.3)
         print("              /____/               /_/                                       ")
         functions.clearTerm()
 
@@ -27,9 +27,9 @@ class pageone:
             print("         \____/\__, /_.___/\___/_/  / .___/\__,_/_/ /_/_/|_/_/ |_/\___/\__/  ")
             print("              /____/               /_/                                       ")
             functions.spacing8()
-            time.sleep(0.3)
+            delay(0.3)
             functions.clearTerm()
-            time.sleep(0.3)
+            delay(0.3)
             animRepeat = animRepeat + 1
 
         print("            ______      __                                __   _   __     __ ")
@@ -43,7 +43,7 @@ class pageone:
         functions.spacing8()
         print("loading operting system...")
         functions.progressBar()
-        time.sleep(1)
+        delay(1)
         functions.spacing8()
         functions.clearTerm()
         print("██╗    ██╗    ███████╗    ██╗          ██████╗     ██████╗     ███╗   ███╗    ███████╗")
@@ -75,14 +75,3 @@ class pageone:
         print("\n")
         print("\n")
         print("\n")
-    def banner():
-        print(" @@@@@@@  @@@ @@@  @@@@@@@   @@@@@@@@  @@@@@@@   @@@@@@@   @@@  @@@  @@@  @@@  @@@  @@@    @@@  @@@  @@@@@@@@  @@@@@@@  ")
-        print("@@@@@@@@  @@@ @@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@  @@@  @@@@ @@@  @@@  @@@    @@@@ @@@  @@@@@@@@  @@@@@@@  ")
-        print("!@@       @@! !@@  @@!  @@@  @@!       @@!  @@@  @@!  @@@  @@!  @@@  @@!@!@@@  @@!  !@@    @@!@!@@@  @@!         @@!    ")
-        print("!@!       !@! @!!  !@   @!@  !@!       !@!  @!@  !@!  @!@  !@!  @!@  !@!!@!@!  !@!  @!!    !@!!@!@!  !@!         !@!    ")
-        print("!@!        !@!@!   @!@!@!@   @!!!:!    @!@!!@!   @!@@!@!   @!@  !@!  @!@ !!@!  @!@@!@!     @!@ !!@!  @!!!:!      @!!    ")
-        print("!!!         @!!!   !!!@!!!!  !!!!!:    !!@!@!    !!@!!!    !@!  !!!  !@!  !!!  !!@!!!      !@!  !!!  !!!!!:      !!!    ")
-        print(":!!         !!:    !!:  !!!  !!:       !!: :!!   !!:       !!:  !!!  !!:  !!!  !!: :!!     !!:  !!!  !!:         !!:    ")
-        print(":!:         :!:    :!:  !:!  :!:       :!:  !:!  :!:       :!:  !:!  :!:  !:!  :!:  !:!    :!:  !:!  :!:         :!:    ")
-        print(" ::: :::     ::     :: ::::   :: ::::  ::   :::   ::       ::::: ::   ::   ::   ::  :::    ::   ::   :: ::::     ::    ")
-        print(" :: :: :     :     :: : ::   : :: ::    :   : :   :         : :  :   ::    :    :   :::    ::    :   : :: ::      :     ")

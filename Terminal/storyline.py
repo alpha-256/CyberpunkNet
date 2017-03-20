@@ -2,11 +2,9 @@ import math
 import sys
 import time
 from functionset import functions
-from mainscreen import pageone
-from newgame import newGame
 
 #story into path 1
-class story1:
+class story:
     def part1():
         def typeAnim(a):
             for char in a:
