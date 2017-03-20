@@ -7,3 +7,4 @@ from mainscreen import loadingAnim
 from banner import logo
 
 loadingAnim.menuAnimLoad()
+story.part1()
