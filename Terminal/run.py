@@ -7,4 +7,6 @@ from mainscreen import loadingAnim
 from banner import logo
 
 loadingAnim.menuAnimLoad()
+input("Press enter to start....")
+functions.clearTerm()
 story.part1()

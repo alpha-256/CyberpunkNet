@@ -1,11 +1,38 @@
--11:53 PM -3003 AD -27th November -: Three days ago, I woke from my week long coma. When I opened my eyes I could only see white. Everything was so bright from the window. In the background I could hear my mother sobbing. Then I sat up on the hospital bed while a doctor walks in. She sat next to me. Her presence was so familiar, a light puff of perfume and a soft voice. Took me a while to realize, she is my girlfriend. I started to cry out of the blue. I have never felt this way before. My mother hugged me from the side, leaving her teardrops wet my gown. My girlfriend, Alice was crying from joy.
+-11:53 PM -2043 AD -Tuesday 27th November -:
+Three days ago, I woke from my two day long coma.
+When I opened my eyes I could only see white.
+Everything was so bright from the window.
 
--08:11 PM -3003 AD 29th November -: Today Alice told me that I will be discharged in 3 days.
+-09:43 PM -2043 AD -Tuesday 28th November -:
+Today, Alice visited me in the morning.
+Apparently she was supposed to visit me on the 27th but her flight from Hawaii was delayed.
+If I remember correctly, she went to Hawaii with her parents for winter break.
 
--09:37 AM -3003 AD -2nd December -: I was discharged yesterday morning.
+-08:11 PM -2043 AD -Thursday 30th November -:
+Today a nurse told me that I will be discharged in two days and I was served my first solid food in five days.
+It was boiled chicken breast salad.
+Bland but well cooked.
 
--12:32 PM -3003 AD -3rd December -: When I left the hospital, I also left home. I moved in with Alice, we bought a condominium by the CorAI Research and Development Facility(That's where I work). Our room spanned across the entire floor of a condominium furnished with vintage lamps from the early 2000's. Lavish red and black couches by a fireplace. Bunch of bookcases filled with awards, trophies and books of course. At the center of the room there's a spiral stair that went above to the rooftop. Our walls are white grey and blue in thick stripes. Our bedroom had a ceiling-suspended bed and a wall mounted bar-counter. An ash wood closet door. The walls are concrete decorated by warm Christmas lights and several bar-stools.
+-04:37 PM -2043 AD -Saturday 2nd December -:
+I was discharged this morning.
+First thing I did was call my workplace and told my manager that I will be back to work by Monday.
+Alice came to pick me up from the hospital and we went home.
 
--11:07 PM -3003 AD -4rth October -: Today I at work I overheard my team's debugger, Carl and his friend said something about a coffee shop. "The coffee shop ---password ---it's ---underground." At first I ignored it but by lunch break, I became irresistibly curious. When I got home by two in the afternoon. I turned on my computer and fired up my old friend AngelinaOS. A prototype hacker-AI running on a 4 terabyte rack server.
+-12:32 PM -2043 AD -Monday 4th December -:
+When I went to work this morning, nothing has changed.
+Hardly anyone has noticed my existence.
+Aside from Carl and the security guard Lennie.
+They are the only people who ever talks to me casually.
 
-
+-11:07 PM -2043 AD -Wednesday 6th December -:
+Today at work I overheard my team's tech support, Carl and his friend said something about a coffee shop.
+"The coffee shop ---password ---it's ---underground."
+At first I ignored it, but by lunch break I became irresistibly curious.
+When I got home by two in the afternoon.
+I turned on my computer and started snooping around the network at since Carl stays late for work quite frequently.
+Like real late.
+Five minutes into hacking Carl's workstation.
+I monitored everything he typed for the last few hours.
+Seems like nothing is here.
+I cant find anything related to a coffee shop.
+So then I had to send Carl a infected PDF manual/documentation for our project.

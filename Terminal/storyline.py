@@ -11,6 +11,5 @@ class story:
                 for line in f:
                     if '\n' == line[-1]:
                         line = line[:-1]
-                        wait(1)
+                        input()
                         print(line)
-part1()
