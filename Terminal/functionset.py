@@ -50,7 +50,7 @@ class functions:
         printProgress(i, l, prefix = 'Progress:', suffix = 'Complete', barLength = 50)
         for item in items:
             # Do stuff...
-            time.sleep(0.01)
+            time.sleep(0.02)
             # Update Progress Bar
             i += 1
             printProgress(i, l, prefix = 'Progress:', suffix = 'Complete', barLength = 50)

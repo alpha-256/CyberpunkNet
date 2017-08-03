@@ -1,0 +1,45 @@
+who measures inflation?
+
+Bureau of labor Statistics
+Updated monthly
+==================================================================================
+CPI Consumer Price Index
+
+A measure of the cost of a fixed "Market Basket" of consumer goods andd services
+
+Market Basket changes as people's tastes change.
+
+10%	Inflation
+7%	Raise in pay
+---------------------
+3%	Real Income
+
+10%	Inflation
+10%	Raise in pay
+---------------------
+0%	Real Income
+
+Public Transport Costs
+
+Office Rents
+
+Office Sales
+
+Avg Taxi cost
+
+Avg cost of vehicles made with cheap material and labour cost
+
+Avg cost of vehicles made with expensive material and labour cost
+
+Electricity
+
+Petrol
+
+Average shares owned by the goverment
+
+Goverment Liabilities
+
+Private Hospital costs
+
+Public Hospital costs 
+==================================================================================
