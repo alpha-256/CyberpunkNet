@@ -16,17 +16,29 @@ def neuron0():
 
 neuron0()
 """
-x = [1,2,3,4,5,6,7,8,9,0]
-dataLen = len(x)
+from random import randint as ri
+x = []
 a = []
-
+a1 = []
+def genData():
+    genQty = int(input("Amount of data >>> "))
+    counter = 0
+    while counter < genQty :
+        x.append(ri(1,27))
+        counter= counter + 1
 def neuron1():
+    dataLen = len(x)
     xSum = sum(x)
+    print(xSum)
     average = xSum / dataLen
     for i in x:
         z = int(i - average)
         xAvg = z^2
-        a.append(xAvg/dataLen)
+        a.append(xAvg)
+    a0 = sum(a)
+    a1.append(a0/dataLen)
 
+genData()
 neuron1()
 print(a)
+print(a1)
