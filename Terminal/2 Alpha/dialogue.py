@@ -2,12 +2,6 @@ from time import sleep
 import sys
 from functionset import functions
 
-def charPrint(text):
-    for char in text:
-        sys.stdout.write(char)
-        sys.stdout.flush()
-        sleep(0.04)
-
 class Part_Zero(object):
 
     @classmethod
